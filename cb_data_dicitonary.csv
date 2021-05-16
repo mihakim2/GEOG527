@@ -1,0 +1,401 @@
+﻿Industries,Type,Tech
+Banking,1,0
+Marketplace,2,1
+Business Development,3,0
+Collaboration,4,0
+Productivity Tools,5,1
+Artificial Intelligence,6,1
+E-Commerce,7,1
+Angel Investment,8,0
+FinTech,9,1
+Clean Energy,10,0
+Health Care,11,0
+Asset Management,12,0
+Digital Entertainment,13,1
+Analytics,14,1
+Electronics,15,0
+Corporate Training,16,0
+Consumer,17,0
+Food Delivery,18,1
+Enterprise Software,19,1
+Business Intelligence,20,1
+Developer APIs,21,1
+Delivery,22,1
+Apps,23,1
+Financial Services,24,0
+Crowdsourcing,25,0
+E-Learning,26,1
+Mobile Apps,27,1
+Coworking,28,0
+CRM,29,1
+Advertising Platforms,30,1
+Developer Platform,31,1
+Cycling,32,0
+Debt Collections,33,0
+Social Media,34,1
+Blockchain,35,1
+Bitcoin,36,1
+Beauty,37,0
+Internet,38,1
+Consumer Goods,39,0
+Biotechnology,40,1
+Finance,41,0
+Blogging Platforms,42,1
+Information Technology,43,1
+Retail,44,0
+Energy Efficiency,45,0
+Cryptocurrency,46,1
+Mobile,47,1
+Automotive,48,0
+Consumer Lending,49,0
+Aerospace,50,0
+Education,51,0
+Advertising,52,0
+Association,53,0
+Construction,54,0
+Gaming,55,0
+Fantasy Sports,56,0
+Cloud Infrastructure,57,1
+Computer,58,1
+Data Integration,59,1
+B2C,60,0
+Cloud Computing,61,1
+E-Commerce Platforms,62,1
+Advanced Materials,63,0
+3D Technology,64,1
+Amusement Park and Arcade,65,0
+Big Data,66,1
+Content,67,1
+Consumer Electronics,68,0
+Employee Benefits,69,0
+EdTech,70,1
+Application Performance Management,71,1
+Augmented Reality,72,0
+Compliance,73,0
+Commercial Lending,74,0
+Commercial Insurance,75,0
+Agriculture,76,0
+B2B,77,0
+3D Printing,78,0
+Credit Cards,79,0
+Accounting,80,0
+Cannabis,81,0
+Document Management,82,1
+Digital Media,83,1
+Developer Tools,84,1
+Fitness,85,0
+Government,86,0
+File Sharing,87,1
+Communities,88,0
+Clinical Trials,89,0
+Embedded Systems,90,0
+Crowdfunding,91,0
+Dental,92,0
+Consumer Reviews,93,0
+Concerts,94,0
+Ad Server,95,1
+Baby,96,0
+Energy,97,0
+Grocery,98,0
+Food Processing,99,0
+Gambling,100,0
+Career Planning,101,0
+Audio,102,0
+Biopharma,103,0
+Food and Beverage,104,0
+Media and Entertainment,105,0
+Application Specific Integrated Circuit (ASIC),106,1
+Debit Cards,107,0
+Network Hardware,108,1
+Cloud Management,109,1
+Dating,110,1
+Cloud Security,111,1
+Biometrics,112,1
+Freelance,113,0
+Data Center,114,1
+Employment,115,0
+Consumer Software,116,1
+Courier Service,117,0
+Cyber Security,118,1
+Internet of Things,119,1
+CleanTech,120,1
+Financial Exchanges,121,0
+Credit,122,0
+Data Visualization,123,1
+Drones,124,1
+CMS,125,1
+Delivery Service,126,0
+eSports,127,1
+Human Resources,128,0
+Enterprise Applications,129,1
+Information Services,130,1
+Freight Service,131,0
+Architecture,132,0
+Public Transportation,133,0
+Child Care,134,0
+Cloud Data Services,135,1
+Brand Marketing,136,0
+Advice,137,0
+Air Transportation,138,0
+Building Material,139,0
+Battery,140,0
+iOS,141,1
+Hospitality,142,0
+Collaborative Consumption,143,0
+Film,144,0
+App Discovery,145,1
+Billing,146,0
+mHealth,147,0
+Messaging,148,0
+Enterprise,149,1
+Android,150,0
+Impact Investing,151,0
+Leasing,152,0
+Events,153,0
+Consumer Applications,154,1
+Elder Care,155,0
+Communication Hardware,156,1
+Marketing,157,0
+Database,158,1
+Content Marketing,159,0
+Cooking,160,0
+Direct Sales,161,0
+Email,162,1
+AgTech,163,1
+Children,164,0
+Classifieds,165,0
+Incubators,166,0
+College Recruiting,167,0
+Electric Vehicle,168,0
+Embedded Software,169,1
+Broadcasting,170,0
+Consumer Research,171,0
+Graphic Design,172,1
+Collectibles,173,0
+Procurement,174,0
+Consulting,175,0
+Credit Bureau,176,0
+Bioinformatics,177,1
+Logistics,178,0
+Electronic Health Record (EHR),179,0
+Adventure Travel,180,0
+Fleet Management,181,0
+Law Enforcement,182,0
+Art,183,0
+Identity Management,184,0
+Autonomous Vehicles,185,1
+Call Center,186,0
+Event Promotion,187,0
+Customer Service,188,0
+Property Management,189,0
+A/B Testing,190,0
+DIY,191,0
+Mining,192,0
+Commercial,193,0
+Outsourcing,194,0
+Infrastructure,195,0
+Communications Infrastructure,196,0
+Business Travel,197,0
+Coffee,198,0
+Emergency Medicine,199,0
+Quantum Computing,200,1
+Professional Services,201,0
+Car Sharing,202,0
+GovTech,203,1
+Auto Insurance,204,0
+Brewing,205,0
+Hardware,206,0
+Industrial Engineering,207,0
+Internet Radio,208,1
+Manufacturing,209,0
+Animation,210,0
+Real Estate,211,0
+Content Delivery Network,212,0
+Family,213,0
+Enterprise Resource Planning (ERP),214,1
+Contact Management,215,0
+Business Information Systems,216,1
+Furniture,217,0
+Renewable Energy,218,0
+Energy Management,219,0
+Casual Games,220,0
+Industrial Design,221,0
+Software,222,1
+Digital Marketing,223,0
+Email Marketing,224,0
+Lifestyle,225,0
+App Marketing,226,1
+Innovation Management,227,0
+Market Research,228,0
+Content Creators,229,0
+Gamification,230,0
+Celebrity,231,0
+Auctions,232,0
+Fashion,233,0
+Health Diagnostics,234,0
+Chemical Engineering,235,0
+Humanitarian,236,0
+Lending,237,0
+Oil and Gas,238,0
+Fertility,239,0
+Publishing,240,0
+Alternative Medicine,241,0
+Affiliate Marketing,242,0
+Project Management,243,0
+Space Travel,244,0
+Facility Management,245,0
+Industrial Automation,246,0
+Machinery Manufacturing,247,0
+Information and Communications Technology (ICT),248,1
+Home Services,249,0
+Ad Exchange,250,0
+Online Auctions,251,0
+Social,252,0
+Machine Learning,253,1
+Journalism,254,0
+Last Mile Transportation,255,0
+Commercial Real Estate,256,0
+SaaS,257,1
+Ad Network,258,0
+Pharmaceutical,259,0
+News,260,0
+Local,261,0
+EBooks,262,0
+Transportation,263,0
+Risk Management,264,0
+Electrical Distribution,265,0
+Home Health Care,266,0
+Eyewear,267,0
+Event Management,268,0
+Tourism,269,0
+Medical,270,0
+Diabetes,271,0
+Ediscovery,272,0
+Home Improvement,273,0
+InsurTech,274,1
+Computer Vision,275,1
+Subscription Service,276,0
+Industrial Manufacturing,277,0
+Browser Extensions,278,1
+Industrial,279,0
+Coupons,280,0
+Freemium,281,1
+Office Administration,282,0
+Search Engine,283,1
+Quantified Self,284,0
+Intellectual Property,285,0
+Security,286,0
+Insurance,287,0
+Ad Targeting,288,1
+Sports,289,0
+Leisure,290,0
+Image Recognition,291,1
+Mobile Payments,292,1
+Robotics,293,1
+Continuing Education,294,0
+Catering,295,0
+Farming,296,0
+Emerging Markets,297,0
+Charity,298,0
+Casino,299,0
+Bakery,300,0
+Home Decor,301,0
+Green Consumer Goods,302,0
+IT Management,303,1
+Packaging Services,304,0
+Interior Design,305,0
+Personal Health,306,0
+Lead Generation,307,0
+Semiconductor,308,0
+Network Security,309,1
+Health Insurance,310,0
+Restaurants,311,0
+Payments,312,0
+Telecommunications,313,0
+Recycling,314,0
+Environmental Engineering,315,0
+Knowledge Management,316,0
+Audiobooks,317,0
+Geospatial,318,0
+Dietary Supplements,319,0
+Environmental Consulting,320,0
+Location Based Services,321,1
+Lighting,322,0
+Local Business,323,0
+Chemical,324,0
+Service Industry,325,0
+Predictive Analytics,326,1
+Facilities Support Services,327,0
+Price Comparison,328,0
+Console Games,329,0
+CivicTech,330,1
+Meeting Software,331,1
+PaaS,332,1
+National Security,333,0
+Ad Retargeting,334,1
+Intelligent Systems,335,1
+Indoor Positioning,336,0
+IT Infrastructure,337,1
+Human Computer Interaction,338,1
+Facial Recognition,339,1
+Animal Feed,340,0
+E-Signature,341,1
+Drone Management,342,1
+Legal Tech,343,1
+Nanotechnology,344,1
+Medical Device,345,0
+Biomass Energy,346,0
+CAD,347,0
+Hotel,348,0
+Gift Card,349,0
+Data Storage,350,1
+Cloud Storage,351,1
+Genetics,352,0
+Mobile Devices,353,1
+Open Source,354,1
+Domain Registrar,355,1
+Mineral,356,0
+Hospital,357,0
+Non Profit,358,0
+Data Center Automation,359,1
+Comics,360,0
+Assistive Technology,361,1
+Satellite Communication,362,1
+Elderly,363,0
+Livestock,364,0
+Management Consulting,365,0
+Home Renovation,366,0
+Ride Sharing,367,0
+Nutrition,368,0
+Biofuel,369,0
+Building Maintenance,370,0
+Desktop Apps,371,1
+Product Management,372,0
+Energy Storage,373,0
+Linux,374,1
+Gift,375,0
+Solar,376,0
+Creative Agency,377,0
+Property Development,378,0
+Music,379,0
+GPS,380,1
+Recruiting,381,0
+Cosmetic Surgery,382,0
+Electronic Design Automation (EDA),383,0
+Mining Technology,384,0
+Water,385,0
+Marketing Automation,386,0
+Craft Beer,387,0
+Virtual Reality,388,1
+Retail Technology,389,1
+Online Portals,390,1
+IaaS,391,1
+Jewelry,392,0
+Venture Capital,393,0
+Lead Management,394,0
+Funerals,395,0
+Product Design,396,0
+Assisted Living,397,0
+Private Social Networking,398,1
+Social Media Marketing,399,1
+Farmers Market,400,0
